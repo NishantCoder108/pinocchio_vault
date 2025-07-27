@@ -1,6 +1,6 @@
 # Pinocchio Vault
 
-A secure vault program built on the Pinocchio blockchain, allowing users to deposit and withdraw funds with proper access control using Program Derived Addresses (PDAs).
+A secure vault program built using Pinocchio , allowing users to deposit and withdraw funds with proper access control using Program Derived Addresses (PDAs).
 
 ## 🚀 Features
 
