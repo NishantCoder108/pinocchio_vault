@@ -8,6 +8,10 @@ A secure vault program built using Pinocchio , allowing users to deposit and wit
 - **Controlled Withdrawals**: Only the vault owner can withdraw funds
 - **PDA-based Security**: Utilizes Program Derived Addresses for enhanced security
 
+## Demo
+https://github.com/user-attachments/assets/0be643bb-7737-4e18-a26c-f48eb69c8fc5
+
+
 ## 📦 Prerequisites
 
 - Rust (latest stable version)
